@@ -1,2 +1,2 @@
 # hello-world
-This is a place where I store ideas, resources, collaborate with colleagues.
+This is a repository where I will store ideas, resources, and collaborate with colleagues on projects.
