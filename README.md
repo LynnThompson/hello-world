@@ -1,2 +1,2 @@
 # hello-world
-place where you store ideas, resources, or even share and discuss things with others.
+This is a place where I store ideas, resources, collaborate with colleagues.
